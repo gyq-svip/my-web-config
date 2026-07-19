@@ -5,34 +5,10 @@
   "data": [
     {
       "id": 1,
-      "category": "寒冰堡",
-      "name": "飞刀寒冰副卡挂机",
+      "category": "集思广益",
+      "name": "大家把想到的好用功能都提出来,方便的同时也方便了大家，能实现的都会加上！",
       "content": "",
-      "author": "无名",
-      "publish_time": "2026-05-25 10:15:00"
-    },
-    {
-      "id": 2,
-      "category": "暗月岛",
-      "name": "法师榜",
-      "content": "",
-      "author": "无名",
-      "publish_time": "2026-05-25 10:15:00"
-    },
-    {
-      "id": 3,
-      "category": "大漩涡",
-      "name": "火灵",
-      "content": "",
-      "author": "无名",
-      "publish_time": "2026-05-25 10:15:00"
-    },
-    {
-      "id": 4,
-      "category": "深海之战",
-      "name": "据点",
-      "content": "火灵",
-      "author": "无名",
+      "author": "",
       "publish_time": "2026-05-25 10:15:00"
     }
   ]
